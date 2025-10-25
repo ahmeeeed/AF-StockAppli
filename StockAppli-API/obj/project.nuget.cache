@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BE8Uuo9BDWU=",
+  "success": true,
+  "projectFilePath": "C:\\AF\\StockAppli\\Backend\\StockAppli-API\\StockAppli-API\\StockAppli-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

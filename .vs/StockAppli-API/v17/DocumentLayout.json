@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AF\\StockAppli\\Backend\\StockAppli-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D5E41F0-C4DC-47F1-963D-7A30D1E5BDF1}|StockAppli-API\\StockAppli-API.csproj|c:\\af\\stockappli\\backend\\stockappli-api\\stockappli-api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D5E41F0-C4DC-47F1-963D-7A30D1E5BDF1}|StockAppli-API\\StockAppli-API.csproj|solutionrelative:stockappli-api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\AF\\StockAppli\\Backend\\StockAppli-API\\StockAppli-API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StockAppli-API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\AF\\StockAppli\\Backend\\StockAppli-API\\StockAppli-API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StockAppli-API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:24:19.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
