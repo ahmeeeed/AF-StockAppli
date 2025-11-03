@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("1436b9c3-f441-4f6b-8104-64ad72018236")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("StockAppli-API")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("StockAppli.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf4bd7bd00cd4691887b2b89d662331c8ae93d14")]
-[assembly: System.Reflection.AssemblyProductAttribute("StockAppli-API")]
-[assembly: System.Reflection.AssemblyTitleAttribute("StockAppli-API")]
+[assembly: System.Reflection.AssemblyProductAttribute("StockAppli.Models")]
+[assembly: System.Reflection.AssemblyTitleAttribute("StockAppli.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
