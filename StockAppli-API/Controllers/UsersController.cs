@@ -10,8 +10,6 @@ namespace StockAppli_API.Controllers
     {
         public UsersController()
         {
-
-            
         }
 
     }
