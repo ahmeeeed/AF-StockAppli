@@ -1,4 +1,4 @@
-using Microsoft.Extensions.DependencyInjection;
+using StockAppli.Models;
 using StockAppli_API.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -8,6 +8,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerDocumentation();
 builder.Services.AddRazorPages();
 builder.Services.AddHttpContextAccessor();
+builder.Services.Configure<AppSettings>(builder.Configuration.GetSection((nameof(AppSettings))));
 
 // JWT
 builder.Services.AddAuthentication(builder.Configuration);
