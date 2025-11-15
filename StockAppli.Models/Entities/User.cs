@@ -1,4 +1,5 @@
 ﻿using MongoDB.Bson.Serialization.Attributes;
+using static StockAppli.Models.Enums;
 
 namespace StockAppli.Models.Entities
 {
@@ -28,5 +29,11 @@ namespace StockAppli.Models.Entities
 
         [BsonElement("country")]
         public string? Country { get; set; }
+        [BsonElement("phone")]
+        public string? Phone { get; set; }
+        [BsonElement("accountVerified")]
+        public bool? AccountVerified { get; set; }
+        [BsonElement("accountVerified")]
+        public List<Permission> Permissions { get; set; }
     }
 }

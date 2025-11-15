@@ -11,3 +11,6 @@ C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\obj\Debug\net9.0\Stock
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\obj\Debug\net9.0\refint\StockAppli.Models.dll
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\obj\Debug\net9.0\StockAppli.Models.pdb
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\obj\Debug\net9.0\ref\StockAppli.Models.dll
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\bin\Debug\net9.0\StockAppli.Logger.dll
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\bin\Debug\net9.0\StockAppli.Logger.pdb
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Models\obj\Debug\net9.0\StockApp.76A7E747.Up2Date
