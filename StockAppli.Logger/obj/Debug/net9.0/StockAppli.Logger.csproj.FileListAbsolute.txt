@@ -1,0 +1,13 @@
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\bin\Debug\net9.0\StockAppli.Logger.deps.json
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\bin\Debug\net9.0\StockAppli.Logger.dll
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\bin\Debug\net9.0\StockAppli.Logger.pdb
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.csproj.AssemblyReference.cache
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.AssemblyInfoInputs.cache
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.AssemblyInfo.cs
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.csproj.CoreCompileInputs.cache
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.sourcelink.json
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.dll
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\refint\StockAppli.Logger.dll
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\StockAppli.Logger.pdb
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli.Logger\obj\Debug\net9.0\ref\StockAppli.Logger.dll
