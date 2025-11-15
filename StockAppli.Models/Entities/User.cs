@@ -33,7 +33,7 @@ namespace StockAppli.Models.Entities
         public string? Phone { get; set; }
         [BsonElement("accountVerified")]
         public bool? AccountVerified { get; set; }
-        [BsonElement("accountVerified")]
-        public List<Permission> Permissions { get; set; }
+        [BsonElement("permissions")]
+        public List<Permission>? Permissions { get; set; }
     }
 }

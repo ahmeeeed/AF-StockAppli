@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "ContainingType": "StockAppli_API.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Users/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "StockAppli.Models.Models.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppli_API.Controllers.UsersController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Users/DeleteUser/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockAppli_API.Controllers.UsersController",
+    "Method": "FindUserByEmail",
+    "RelativePath": "api/Users/FindUserByEmail/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StockAppli.Models.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -15,10 +15,12 @@ namespace StockAppli.Models.Entities
         [BsonElement("updatedAt")]
         public DateTime? UpdatedAt { get; set; }
         [BsonRepresentation(BsonType.ObjectId)]
+        [BsonElement("updaterId")]
         public string? UpdaterId { get; set; }
         [BsonElement("deletedAt")]
         public DateTime? DeletedAt { get; set; }
         [BsonRepresentation(BsonType.ObjectId)]
+        [BsonElement("deleterId")]
         public string? DeleterId { get; set; }
         [BsonElement("enable")]
         public bool Enable { get; set; } = true;

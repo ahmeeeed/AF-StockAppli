@@ -130,3 +130,5 @@ C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\bin\Debug\net9.0\StockApp
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\bin\Debug\net9.0\StockAppli.Models.dll
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\bin\Debug\net9.0\StockAppli.Models.pdb
 C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\bin\Debug\net9.0\StockAppli.Logger.pdb
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\obj\Debug\net9.0\StockAppli-API.MvcApplicationPartsAssemblyInfo.cs
+C:\AF\StockAppli\Backend\StockAppli-API\StockAppli-API\bin\Debug\net9.0\AutoMapper.dll
